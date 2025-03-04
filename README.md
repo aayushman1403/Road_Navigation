@@ -1,2 +1,23 @@
-# Path-Detection
-path coloration has become popular in real time vehicular ad-hoc networks (VANETs). The main emphasis of this is to find the further ways which can be used further to improve the result of path detection algorithms. Noise, visibility etc. can reduce the performance or the existing path detection algorithms.path coloration has become popular in real time vehicular ad-hoc networks (VANETs). The main emphasis of this paper is to find the further ways which can be used further to improve the result of path detection algorithms. Noise, visibility etc. can reduce the performance or the existing path detection algorithms. The methods developed so far are working efficiently and giving good results in case when noise is not present in the images. But problem is that they fail or not give efficient results when there is any kind of noise or fog in the road images. The noise can be anything like dust, shadows, puddles, oil stains, tire skid marks, etc.
+# 🚗 Road Navigation  
+
+Road navigation has gained significant attention in **real-time vehicular ad-hoc networks (VANETs)**. The primary focus of this project is to explore advanced techniques that can **enhance accuracy and efficiency** in existing road navigation algorithms. Various factors such as **noise, low visibility, and environmental conditions** can negatively impact the performance of current navigation methods.  
+
+The methods developed so far have shown **efficient results in clear conditions**. However, they tend to fail or deliver **suboptimal performance** in the presence of noise or obstructions such as **fog, dust, shadows, puddles, oil stains, and tire skid marks** on the road.  
+
+---
+
+## 🎯 Objectives  
+✔ Improve the **reliability** of road navigation algorithms.  
+✔ Develop **robust techniques** to handle noisy and obstructed road images.  
+✔ Enhance **navigation accuracy** under adverse conditions such as fog and low visibility.  
+
+---
+
+## ⚠ Challenges  
+❌ Managing various types of **noise** affecting road images.  
+❌ Ensuring **efficiency** in real-time scenarios.  
+❌ Improving **detection** under poor visibility conditions.  
+
+---
+
+This project aims to develop **improved algorithms** that can effectively handle these challenges and ensure **reliable road detection** even in adverse conditions.  
