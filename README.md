@@ -20,4 +20,4 @@ The methods developed so far have shown **efficient results in clear conditions*
 
 ---
 
-This project aims to develop **improved algorithms** that can effectively handle these challenges and ensure **reliable road detection** even in adverse conditions.  
+This project aims to develop  **improved algorithms**  that can effectively handle these challenges and ensure **reliable road detection** even in adverse conditions.  
